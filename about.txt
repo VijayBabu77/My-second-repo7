@@ -1,0 +1,3 @@
+My name is Vijay Babu
+I am currently pursuing 3rd year BCA-Data Science In Aditya Degree College
+I learned how to create a repository in GitHub.
